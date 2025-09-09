@@ -1,2 +1,2 @@
 # WebDev-Practice
-Repository for practicing Web Development
+My Repository for Self-learning & practicing Web Development
