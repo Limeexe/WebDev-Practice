@@ -11,8 +11,8 @@ body {
 
 .card {
     width: 90%;
-    max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    max-width: 480px;
+    background: linear-gradient(135deg, #07a3b2, #d9ecc7);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
@@ -49,8 +49,13 @@ body {
     height: 60px;
     cursor: pointer;
 }
-/*
+
 .search button img{
-    width: 16px;
+    width: 40px;
+    height: 40px;
 }
-*/
+
+.weather weather-icon{
+    width: 100px;
+    height: 100px;
+}
